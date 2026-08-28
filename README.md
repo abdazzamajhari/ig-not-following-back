@@ -1,7 +1,7 @@
-# ig-not-following-back
+# Instagram Not Following Back
 Have you been unfollowed by your friends? Use this!
 
-This code was designed using KISS ("Keep it simple, stupid") method
+This code was designed using the KISS ("Keep it simple, stupid") method
 
 ## Install library first
 1. python -m pip install beautifulsoup4 playwright
