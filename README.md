@@ -9,3 +9,8 @@ This code was designed using KISS ("Keep it simple, stupid") method
 
 ## How to Run?
 python instagram_not_following_back.py [username] --timeout 90
+
+## Additional Information
+1. This code doesn't save your login info
+2. Only works with a local computer
+3. Only works in Windows 11
