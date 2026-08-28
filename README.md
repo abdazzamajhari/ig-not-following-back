@@ -1,5 +1,5 @@
 # Instagram Not Following Back
-Have you been unfollowed by your friends? Use this!
+Have you been unfollowed by your friends, but you didn't know who it was? Use this!
 
 This code was designed using the KISS ("Keep it simple, stupid") method
 
